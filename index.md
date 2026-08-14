@@ -9,7 +9,7 @@ In a past life, I was a biochemist with a focus on plant physiology at U of T.
 
 Slowly trying to make the world a better place. My interests intersect risk measures, climate change and ML.
 
-I like lifting heavy objects up above my head.  
+[I like lifting heavy objects up above my head.](kilos.md)  
 
 I drink copious amounts of coffee. 
 
@@ -29,11 +29,18 @@ Some updates in my life:
 <img src="/assets/Rings.jpg">
 
 2. Places I've lived so far (as of 2026):
+- Chittagong,
+- Komila,
+- Kolkata,
+- Ndola,
 - Toronto,
 - Calgary,
 - Chicago,
 - Ottawa.
 
+3. Places on my to live next(?):
+- Kuala Lumpur,
+- Utrecht.
 
 You can connect with me at any of the socials on this website. 
 
