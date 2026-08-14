@@ -25,6 +25,7 @@ This is my dog. She is a Corndog. She's beautiful.
 
 Some updates in my life:
 1. I finally did it.
+
 <img src="/assets/Rings.jpg">
 
 2. Places I've lived so far (as of 2026):
