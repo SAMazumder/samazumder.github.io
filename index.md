@@ -24,11 +24,13 @@ This is my dog. She is a Corndog. She's beautiful.
 <img src="/assets/Corn.jpg">
 
 Some updates in my life:
-1. I finally did it.
+- I finally did it. Husband material:
 
 <img src="/assets/Rings.jpg">
 
-2. Places I've lived so far (as of 2026):
+---
+
+1. Places I've lived so far (as of 2026):
 - Chittagong,
 - Komila,
 - Kolkata,
@@ -38,9 +40,11 @@ Some updates in my life:
 - Chicago,
 - Ottawa.
 
-3. Places on my to live next(?):
+2. Places on my to live next(?):
 - Kuala Lumpur,
 - Utrecht.
+
+---
 
 You can connect with me at any of the socials on this website. 
 
