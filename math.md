@@ -30,7 +30,7 @@ You can find my graduate thesis [here](/assets/SAMazumderThesis_Final-3.pdf).
 
 [The Lagrange Form of the Interpolating Polynomial](/assets/LagrangePoly.pdf). A note provided to my students in Numerical Analysis.
 
-[A GLM model](/assets/EconM.pdf). A simple GLM model noting the probability of employment after one year given a change in race identification.
+[A GLM model](/assets/EconM.pdf). A simple GLM model estimating the probability of employment after one year given a change in race identification.
 
 
 You can find my undergraduate thesis [here](/assets/thesis.pdf).
