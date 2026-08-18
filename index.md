@@ -24,7 +24,7 @@ This is my dog. She is a Corndog. She's beautiful.
 <img src="/assets/Corn.jpg">
 
 Some updates in my life:
-- I finally did it. Husband material:
+- I finally did it. No longer boyfriend material, I'm husband material:
 
 <img src="/assets/Rings.jpg">
 
